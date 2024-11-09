@@ -11,6 +11,6 @@ export interface Location {
 }
 
 interface Schedule {
-  weekday: string;
+  weekdays: string;
   hour: string;
 }
