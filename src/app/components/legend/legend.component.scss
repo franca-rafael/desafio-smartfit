@@ -39,7 +39,16 @@
 }
 
 .legend .legend-item .legend-images img {
-  width: 50px;
+  width: 100px;
+}
+
+@media (min-width: 1120px) {
+  .legend {
+    flex-direction: row;
+  }
+  .legend .legend-item .legend-images img {
+    width: 50px;
+  }
 }
 
 @media (min-width: 1380px) {
