@@ -2,7 +2,7 @@
 
 ![Smart Fit](./src/assets/images/svg/logo.svg)
 
-Este repositório contém a solução para o desafio de Front-end da Smart Fit e foi desenvolvido durante um vídeo no canal kipperdev. Foi utilizado o framework Angular para desenvolver a aplicação.
+Este repositório contém a solução para o `desafio de Front-end da Smart Fit` e foi desenvolvido durante um vídeo no canal kipperdev. Foi utilizado o framework Angular para desenvolver a aplicação.
 
 ## 📖 Sobre o desafio
 
